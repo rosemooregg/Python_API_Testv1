@@ -9,10 +9,10 @@ Build the Docker image using the docker build command.
 Run the Docker container with the docker run command.
 This setup allows you to validate multiple API URLs within a Docker container, making it easy to manage and deploy your API validation script.
 
-
+#h2 HOW to RUn the COde 
 To run code in the terminal on macOS (Darwin), you can use the Python interpreter, which is included with macOS, or execute other scripts or programs, depending on the language and type of code you have. Here's a basic overview:
 
-1. **Running Python Code**:
+1. Running Python Code**:
 
    If you have Python code, you can execute it in the terminal:
 
@@ -26,7 +26,7 @@ To run code in the terminal on macOS (Darwin), you can use the Python interprete
 
    Make sure you replace `your_script.py` with the actual name of your Python script.
 
-2. **Running Other Scripts or Programs**:
+2. Running Other Scripts or Programs**:
 
    If you have code in a language other than Python, the process may vary. For example, if you have a shell script (Bash script), you can execute it directly in the terminal:
 
@@ -41,7 +41,7 @@ To run code in the terminal on macOS (Darwin), you can use the Python interprete
 
    If you have compiled code (e.g., C or C++), you'll need to compile it first, and then you can run the resulting executable.
 
-3. **Running Docker Containers**:
+3. Running Docker Containers:
 
    If you have a Docker container, you can use the `docker run` command to start it. Make sure Docker is installed on your macOS, and you've built an image and created a container.
 
@@ -53,8 +53,3 @@ To run code in the terminal on macOS (Darwin), you can use the Python interprete
 
    Replace `your-image-name` with the actual name of your Docker image.
 
-4. **Running Other Language-Specific Code**:
-
-   For languages like JavaScript, Ruby, or others, you'll need to use the specific interpreter or runtime for that language.
-
-Remember to have the necessary dependencies and interpreters installed for the language you're using. The commands provided are just general examples, and the exact steps may vary depending on the specific code or program you're trying to run.
